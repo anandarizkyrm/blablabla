@@ -1,0 +1,6 @@
+/* Import Bootstrap CSS baseline */
+@import url("../node_modules/bootstrap/dist/css/bootstrap.min.css");
+
+:root { --brand-red: #d0021b; }
+
+body { margin: 0; }
